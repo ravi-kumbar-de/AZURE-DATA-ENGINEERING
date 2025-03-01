@@ -48,3 +48,7 @@ It will generate a `data` folder (for the 2nd and the 3rd project) with the corr
 | TRANSFORMING DATA IN AZURE DATA PIPELINES | Create and trigger Mapping data flows and Azure pipeline activities to transform and move data Transform data in Azure Data factory and synapse pipelines with data flows Debug, trigger, and monitor pipeline activities containing data flows Develop pipelines in multiple ways in Azure Data Factory and Synapse Pipelines Integrate Power Query in Azure Pipelines |
 | AZURE PIPELINE DATA QUALITY | Use common techniques optimize Azure data pipelines for data quality and flow Manage data changing over time in pipeline data flows Explain strategies and tools for data governance in Azure data pipelines |
 | AZURE DATA PIPELINES IN PRODUCTION | Implement production aspects of Azure data pipelines Add Parameters to data pipelines in Azure Data Factory or Synapse Pipelines Create pipeline objects programmatically Automate data pipeline deployment with Azure DevOps or Github |
+
+
+![1735799612943](https://github.com/user-attachments/assets/f99edaae-82fe-4fdf-8348-866b688f0af6)
+
