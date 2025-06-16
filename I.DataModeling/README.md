@@ -1,4 +1,17 @@
-# Project: Data Modeling with Apache Cassandra
+# Data Modeling with Apache Cassandra 🗄️
+
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/)
+
+[← Back to Main Portfolio](../README.md)
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Background](#background)
+- [Solutions](#solutions)
+  - [Data Modeling](#1-modeling-nosql-database-or-apache-cassandra-database)
+  - [ETL Pipeline](#2-build-etl-pipeline)
+  - [Project Criteria](#3-criteria)
 
 #### Scroll down for solution at [section II](https://github.com/TranHuuNhatHuy/UdacityDataEngAzure/blob/main/I.DataModeling/README.md#ii-solutions)
 

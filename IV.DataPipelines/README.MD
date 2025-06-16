@@ -1,4 +1,27 @@
-# Project: Data Integration Pipelines for NYC Payroll Data Analytics
+# Data Integration Pipelines Project 🔄
+
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Data Factory](https://img.shields.io/badge/Data%20Factory-00BCF2?style=flat&logo=microsoft&logoColor=white)](https://azure.microsoft.com/products/data-factory/)
+
+[← Back to Main Portfolio](../README.md)
+
+## Table of Contents
+
+- [Project: Data Integration Pipelines for NYC Payroll Data](#project-data-integration-pipelines-for-nyc-payroll-data)
+  - [Repo structure](#repo-structure)
+  - [Project Overview](#project-overview)
+    - [Background](#background)
+    - [Business outcomes](#business-outcomes)
+  - [Solutions](#solutions)
+    - [Required resources](#required-resources)
+    - [Prepare the Data Infrastructure](#prepare-the-data-infrastructure)
+    - [Create Linked Services](#create-linked-services)
+    - [Create Datasets in Azure Data Factory](#create-datasets-in-azure-data-factory)
+    - [Create Data Flows and Pipelines](#create-data-flows-and-pipelines)
+    - [Data Aggregation & Parameterization](#data-aggregation--parameterization)
+    - [Connect your Project to GitHub](#connect-your-project-to-github)
+
+# Project: Data Integration Pipelines for NYC Payroll Data
 
 #### Repo structure
 

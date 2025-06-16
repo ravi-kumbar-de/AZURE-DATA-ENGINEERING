@@ -1,3 +1,24 @@
+# Data Lakes & Apache Spark Project 🌊
+
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)](https://azure.microsoft.com/products/databricks/)
+
+[← Back to Main Portfolio](../README.md)
+
+## Table of Contents
+
+- [Project: Building an Azure Data Lake for Bike Share Data Analytics](#project-building-an-azure-data-lake-for-bike-share-data-analytics)
+  - [Repo structure](#repo-structure)
+  - [I. Project Overview](#i-project-overview)
+    - [1. Background](#1-background)
+    - [2. Business outcomes](#2-business-outcomes)
+  - [II. Solutions](#ii-solutions)
+    - [Azure resources](#azure-resources)
+    - [Task 1. Design a star schema](#task-1-design-a-star-schema)
+    - [Task 2. Import data to Azure Databricks using Delta Lake to create a Bronze data store](#task-2-import-data-to-azure-databricks-using-delta-lake-to-create-a-bronze-data-store)
+    - [Task 3. Create a Gold data store in Delta Lake tables](#task-3-create-a-gold-data-store-in-delta-lake-tables)
+    - [Task 4. Transform the data into the star schema for a Gold data store](#task-4-transform-the-data-into-the-star-schema-for-a-gold-data-store)
+
 # Project: Building an Azure Data Lake for Bike Share Data Analytics
 
 #### Repo structure

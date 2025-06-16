@@ -1,3 +1,25 @@
+# Cloud Data Warehouses Project 🏢
+
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Synapse](https://img.shields.io/badge/Synapse-1287B1?style=flat&logo=microsoft&logoColor=white)](https://azure.microsoft.com/products/synapse-analytics/)
+
+[← Back to Main Portfolio](../README.md)
+
+## Table of Contents
+
+- [Project: Building an Azure Data Warehouse for Bike Share Data Analytics](#project-building-an-azure-data-warehouse-for-bike-share-data-analytics)
+  - [Repo structure](#repo-structure)
+  - [Project Overview](#i-project-overview)
+    - [Background](#1-background)
+    - [Business outcomes](#2-business-outcomes)
+  - [Solutions](#ii-solutions)
+    - [Task 1. Create Azure resources](#task-1-create-azure-resources)
+    - [Task 2. Design a star schema](#task-2-design-a-star-schema)
+    - [Task 3. Create the data in PostgreSQL](#task-3-create-the-data-in-postgresql)
+    - [Task 4. EXTRACT the data from PosgreSQL to Blob Storage](#task-4-extract-the-data-from-posgresql-to-blob-storage)
+    - [Task 5. LOAD the data into external tables in the data warehouse](#task-5-load-the-data-into-external-tables-in-the-data-warehouse)
+    - [Task 6. TRANSFORM the data to the star schema using CETAS](#task-6-transform-the-data-to-the-star-schema-using-cetas)
+
 # Project: Building an Azure Data Warehouse for Bike Share Data Analytics
 
 #### Repo structure
